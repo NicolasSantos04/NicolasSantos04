@@ -24,16 +24,16 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasSantosDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSantosDev&layout=compact&langs_count=6&theme=dracula)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSantos04&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario/](https://www.linkedin.com/in/nícolas-santos/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nícolas-santos/)
 
 
 ---
